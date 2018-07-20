@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Adding generic text
 James is trying out Git/GitHub on his own -- eeek!!!
+=======
+Adding generic text.
+Doing some work. Blah blah blah.
+>>>>>>> d6d9e4a45564c9c47fa277ef6bc7128dd59161b3

@@ -1,1 +1,2 @@
 Adding generic text
+James is trying out Git/GitHub on his own -- eeek!!!
